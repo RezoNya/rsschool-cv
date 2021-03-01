@@ -1,2 +1,2 @@
 # rsschool-cv
-https://rezonya.github.io/rsschool-cv/cv
+https://RezoNya.github.io/rsschool-cv/cv
